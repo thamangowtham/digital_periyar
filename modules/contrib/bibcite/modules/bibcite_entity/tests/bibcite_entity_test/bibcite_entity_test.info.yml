@@ -1,0 +1,15 @@
+name: 'Bibliography & Citation - Entity - Test'
+type: module
+package: Bibliography & Citation
+dependencies:
+  - bibcite
+  - bibcite_entity
+  - text
+core: 8.x
+core_version_requirement: ^8 || ^9 || ^10
+hidden: true
+
+# Information added by Drupal.org packaging script on 2023-07-05
+version: '3.0.0-beta3'
+project: 'bibcite'
+datestamp: 1688553286
