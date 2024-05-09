@@ -1,0 +1,14 @@
+name: Bibliography & Citation
+type: module
+description: Basic API for working with bibliographic data
+core: 8.x
+core_version_requirement: ^8 || ^9 || ^10
+package: Bibliography & Citation
+configure: bibcite.settings
+dependencies:
+  - drupal:serialization
+
+# Information added by Drupal.org packaging script on 2023-07-05
+version: '3.0.0-beta3'
+project: 'bibcite'
+datestamp: 1688553286

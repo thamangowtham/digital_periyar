@@ -1,0 +1,5 @@
+citation_select.csl_map:
+  title: Citation Select CSL Mapping
+  parent: bibcite.settings
+  route_name: citation_select.csl_map
+  weight: 10
