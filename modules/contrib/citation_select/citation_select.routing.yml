@@ -1,0 +1,7 @@
+citation_select.csl_map:
+  path: '/admin/config/citation-select'
+  defaults:
+    _title: 'Citation Select CSL Mapping'
+    _form: 'Drupal\citation_select\Form\CslMapForm'
+  requirements:
+    _permission: 'administer site configuration'
